@@ -1,0 +1,26 @@
+{
+  "name": "graphql-cintanegra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomaker1993/GRAPHQL-CINTANEGRA.git"
+  },
+  "author": "Leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leomaker1993/GRAPHQL-CINTANEGRA/issues"
+  },
+  "homepage": "https://github.com/leomaker1993/GRAPHQL-CINTANEGRA#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
